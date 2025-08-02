@@ -1,5 +1,33 @@
-# 💫 About Me:
-👋 Hi there, I'm Aswathy R Nair<br><br>🎓 B.Tech Student in Computer Science and Engineering  <br>📍 Passionate about building, exploring, and learning new tech every day!<br><br>🔭 I’m currently working on<br>- Expanding my skills in Python and web development  <br>- Building mini projects to improve my coding and logic<br><br>👯 I’m looking to collaborate on<br>- Beginner-friendly web or Python-based projects  <br>- Open source contributions and hackathons<br><br>🤝 I’m looking for help with<br>- Understanding cloud platforms like AWS & GCP  <br>- Improving my backend development skills<br><br>🌱 I’m currently learning<br>- Python, HTML, MySQL, PHP  <br>- Exploring AWS and GCP<br><br>💬 Ask me about<br>- Basic web development  <br>- My journey into tech as a CSE student  <br>- Python projects<br>
+
+<h1 align="center">💫 Aswathy R Nair</h1>
+
+<p align="center">
+🎓 B.Tech Student in Computer Science and Engineering <br>
+💡 Passionate about building, exploring, and learning new tech every day!
+</p>
+
+---
+
+### 🔭 I’m currently working on
+- Expanding my skills in Python and web development  
+- Building mini projects to improve my coding and logic
+
+### 👯 I’m looking to collaborate on
+- Beginner-friendly web or Python-based projects  
+- Open source contributions and hackathons
+
+### 🤝 I’m looking for help with
+- Understanding cloud platforms like AWS & GCP  
+- Improving my backend development skills
+
+### 🌱 I’m currently learning
+- Python, HTML, MySQL, PHP  
+- Exploring AWS and GCP
+
+### 💬 Ask me about
+- Basic web development  
+- My journey into tech as a CSE student  
+- Python projects
 
 
 ## 🌐 Socials:
